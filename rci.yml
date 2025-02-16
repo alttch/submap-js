@@ -10,7 +10,7 @@ commands:
     nvm use v18.16.0
     bun install
     bun run build
-  test: null
+  test: bun test
   release: |
     export NVM_DIR="$HOME/.nvm"
     [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
