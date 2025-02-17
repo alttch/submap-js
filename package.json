@@ -37,7 +37,7 @@
   "peerDependencies": {
     "bmat": "^0.1.4"
   },
-  "homepage": "https://www.alttch.com/",
+  "homepage": "https://www.eva-ics.com/",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
